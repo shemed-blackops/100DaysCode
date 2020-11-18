@@ -16,6 +16,7 @@ size = input("What size of Pizza do you want? S, M or L: ")
 add_pepperoni = input("Do you want pepperoni? Y or N: ")
 extra_cheese = input("Do you want extra cheese? Y or N: ")
 
+
 # convert to upper
 size = size.upper()
 add_pepperoni = add_pepperoni.upper()
